@@ -1,0 +1,4 @@
+run this command - python -m PyInstaller --onefile --windowed video_inatorGUI.py
+
+finished build will be in dist/
+make sure to include the ffmpeg and data folder! otherwise it does a whole lotta nothing
